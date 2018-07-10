@@ -7,3 +7,4 @@ This is HOG + SVM with opencv
 	- string MyNegDir="C:\\Users\\work\\Desktop\\muban\\__fail\\";//this neg path
 	- string MyHardDir = "C:\\Users\\work\\Desktop\\jieguo\\2\\"; //this hard path# HOG-SVM
 # HOG-SVM
+# HOG-SVM
